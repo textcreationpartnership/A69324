@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation set furth by the kynges maiestie, wyth the assent and consent of hys most dere vncle Edward duke of Somerset, gouernor of hys royall persone, and of hys realmes, dominions and subiectes protector, and others of his highnes priuy counsail, concernyng the inhibicion of all preachers aswell as such as hath ben licensed, as also all other, the .xxiii. day of Septembre in the second yere of his Maiesties moste gracious reigne.</title>
+            <title>Proclamations. 1548-09-23</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1548</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69324</idno>
+            <idno type="STC">STC 7818</idno>
+            <idno type="STC">ESTC S109340</idno>
+            <idno type="EEBO-CITATION">99844990</idno>
+            <idno type="PROQUEST">99844990</idno>
+            <idno type="VID">9856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 10:29, 152:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation set furth by the kynges maiestie, wyth the assent and consent of hys most dere vncle Edward duke of Somerset, gouernor of hys royall persone, and of hys realmes, dominions and subiectes protector, and others of his highnes priuy counsail, concernyng the inhibicion of all preachers aswell as such as hath ben licensed, as also all other, the .xxiii. day of Septembre in the second yere of his Maiesties moste gracious reigne.</title>
+                  <title>Proclamations. 1548-09-23</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Richardi Graftoni Regij impressoris. Cum privilegio ad imprimendum solum,</publisher>
+                  <pubPlace>Excusum Londini :</pubPlace>
+                  <date>[1548]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+                  <note>Appears at reels 10 and 152 (Society of Antiquaries copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Preaching --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:9856:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>A Proclamacion ſet furth by the kynges maieſtie, wyth the aſſent and conſent of hys mooſt dere vncle Edward duke of Somerſet, Gouernor of hys royall perſone, and of hys realmes, dominions and ſubiectes protector, and others of his highnes preuy counſail, concernyng the inhibicion of all prea<g ref="char:EOLhyphen"/>chers, aſwell ſuch as hath ben licenced, as alſo all other, <date>the .xxiii. day of Septembre in the ſecond yere of his Maieſties moſte gracious reigne.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Heras of late by reaſon of certain controuerſious and ſedicious prea<g ref="char:EOLhyphen"/>chers, the kynges Maieſtie moued of tendre zeale and loue, whiche he hath to the quiet of his ſubiectes, by the aduiſe of the Lorde Protector and other his highnes counſaill, hath made Proclamacion, inhibited and commaunded, that no maner of perſone, except ſuche as was licen<g ref="char:EOLhyphen"/>ſed by his highnes, the lorde Protector, or by the Archebiſhop of Can<g ref="char:EOLhyphen"/>torbury, ſhould take vpon hym to preache in any open audience, vpo<g ref="char:cmbAbbrStroke">̄</g> paine in the ſaied proclamacion conteyned: And that vpon hope and eſperaunce that thoſe being choſen and electe men ſhould preache and ſet furthe only to the people ſuche thinges as ſhould be to gods honor and the benefite of the kynges maieſties ſubiectes: Yet neuetthe<g ref="char:EOLhyphen"/>les his highnes is aduertiſed that certeigne of the ſaid preachers ſo licenſed, not regardyng ſuche good admonicions, as hath bene by the ſaied Lorde Protector and the reſt of the counſayll on his maieſties behalfe by letters or otherwiſe geue<g ref="char:cmbAbbrStroke">̄</g> vnto them, hath abuſed the ſaied aucthoritie of preachyng, and be<g ref="char:EOLhyphen"/>haued them ſelfe irreuerently and without good ordre in the ſaid preachynges, contrary to ſuche good Inſtructions and aduertiſementes as was geuen vnto theim: wherby muche contencion and diſordre might riſe &amp; enſue in this his Maieſties Realme: Wherfore hys hyghnes, myndyng to ſee very ſhortly one vnifornie ordre throughout this his Realme, &amp; to put an ende of al controuerſies in Religio<g ref="char:cmbAbbrStroke">̄</g> ſo far as God ſhall geue grace: for whiche cauſe at this tyme certayne byſhoppes &amp; notable lerned men by his highnes co<g ref="char:cmbAbbrStroke">̄</g>maundement are co<g ref="char:cmbAbbrStroke">̄</g>gregat: hath by the aduiſe aforeſayd thought good: Although certayne &amp; many of the ſaid prechers ſo before lice<g ref="char:cmbAbbrStroke">̄</g>ſed haue behaued them ſelf veri diſcreteli &amp; wiſely &amp; to the ho<g ref="char:EOLhyphen"/>nor of God &amp; his highnes contentacion: yet at this preſent &amp; vntil ſuche tyme, that the ſaid ordre ſhalbe ſetfurth generally through out this his Maieſties realme, to inhibite, &amp; by theſe preſentz doth inhibit, generally, aſwell the ſaied preachers ſo before licenſed as all maner of perſones whoſoeuer they bee, to preache in open audience in the pulpit or otherwiſe by any ſought coloure or fraude to the diſobeiyng of this commaundement: to the intent that the whole clergie in this meane ſpace might apply theim ſelf to prayer to almightie God for the better acheuyng of the ſame moſt godly entent and purpoſe: Not doubtyng but that alſo all his louyng ſubiectes in the meane tyme will occupie them ſelfe to Gods ho<g ref="char:EOLhyphen"/>nor, with dew prayer in the chruche, and pacient hearyng of the Godly Homelies heretofore fetfurth by hys highnes Iniunccions vnto them, and ſo endenout theim ſelfe that they maye bee then moſte ready with thankfull obedie<g ref="char:cmbAbbrStroke">̄</g>ce to receiue a moſt quiet, godly, and vniforme ordre to be had throughout all his ſaied Realmes and dominions. And therfore hath willed all hys louyng officers and miniſters aſwell iuſtices of peace as Maiors, Shiryfes, baylifes, Conſtables or any other his officers, of what eſtate degre, or condicion ſoeuer thei be, to be attendaunt vpon this proclamacion and commaundement, and to ſee the infringers or breakers thereof to bee impriſoned, and hys highnes, or the Lorde Protectors grace or his Maieſties Counſayl to be certefied therof immediatly: as thei tendre his Maieſties plea<g ref="char:EOLhyphen"/>ſure and wyll anſwere to the contrary at their perill.</p>
+            <closer>God ſaue the Kyng.</closer>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="license">
+            <p>Excuſum Londini, in aedibus Richard Graftoni Regij Impreſſoris.</p>
+            <p>Cum priuilegio ad impri<g ref="char:EOLhyphen"/>mendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
